@@ -1,12 +1,12 @@
 {
 	"folders": [
 		{
-      "name": "Root",
-			"path": ".."
+			"name": "Wiki",
+			"path": "..\\wiki"
 		},
 		{
-      "name": "Wiki",
-			"path": "..\\wiki"
+			"name":"Root",
+			"path": ".."
 		}
 	],
 	"settings": {}
