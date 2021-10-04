@@ -1,11 +1,10 @@
 {
-  //
-	"folders": [{
-		"name": "Wiki",
-		"path": "..\\wiki"
+  "folders": [{
+    "name": "Wiki",
+    "path": "..\\wiki"
   },{
-		"name":"Root",
-		"path": ".."
+    "name":"Root",
+    "path": ".."
 	}],
-	"settings": {}
+  "settings": {}
 }
